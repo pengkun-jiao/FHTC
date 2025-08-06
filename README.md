@@ -5,7 +5,7 @@ Repo for paper ["From Holistic to Localized: Local Enhanced Adapters for Efficie
   📢 [2025-06-26] This work is accepted by ICCV 2025!
 
 
-## Framework
+## Framework Overview
 Overview of our two key components: Visual Cue Enhancement (VCE) module enhances high-level anchor features by aggregating local information from multi-level feature maps. The Dual Low-Rank Adaptation (Dual-LoRA) module projects the input feature into two low-rank subspaces: one for stable holistic domain knowledge (skill space) learning and the other for instruction condition (task space) learning. Dual-LoRA modules is integrated into the LLM’s query and value projection layers for efficiency.
 ![20991754463329_ pic](https://github.com/user-attachments/assets/f0aad39e-1b3c-4c30-a0a4-1fbc19e7d5d8)
 
@@ -26,5 +26,5 @@ Panels (a), (b), and (c) represent feature visualizations for the recipe generat
 ![20981754463201_ pic](https://github.com/user-attachments/assets/ab489f0b-17c8-4af4-9100-e14de8b7ab79)
 
 
-## Results
+## Results on UniFood
 ![20941754462912_ pic](https://github.com/user-attachments/assets/f43f0120-bfb7-4988-b619-3646dd1e189c)

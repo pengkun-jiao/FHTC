@@ -26,5 +26,5 @@ Panels (a), (b), and (c) represent feature visualizations for the recipe generat
 ![20981754463201_ pic](https://github.com/user-attachments/assets/ab489f0b-17c8-4af4-9100-e14de8b7ab79)
 
 
-## Results on UniFood
+## Results on Multi-Food Computing Tasks
 ![20941754462912_ pic](https://github.com/user-attachments/assets/f43f0120-bfb7-4988-b619-3646dd1e189c)

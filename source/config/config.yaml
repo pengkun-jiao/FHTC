@@ -1,0 +1,8 @@
+
+VCE:
+  enable_VCE: true
+  n_levels: 4
+  n_heads: 16
+  n_points: 4
+  mm_vision_select_layer: [-2,-8,-14,-20]
+  weights_path: 'your_path_to/VCE_weights.pth'

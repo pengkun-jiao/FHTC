@@ -1,0 +1,4 @@
+# ninja log v5
+0	4626	1731437170570439510	/home/ubuntu/jpk/llava/LLaVA_RoDE/llava/model/multimodal_projector/deformable_attention/ops/build/temp.linux-x86_64-cpython-310/home/ubuntu/jpk/llava/LLaVA_RoDE/llava/model/multimodal_projector/deformable_attention/ops/src/cpu/ms_deform_attn_cpu.o	81e8b88e42702913
+1	14342	1731437180278459678	/home/ubuntu/jpk/llava/LLaVA_RoDE/llava/model/multimodal_projector/deformable_attention/ops/build/temp.linux-x86_64-cpython-310/home/ubuntu/jpk/llava/LLaVA_RoDE/llava/model/multimodal_projector/deformable_attention/ops/src/vision.o	607ffd64280f9c76
+1	18251	1731437184186468014	/home/ubuntu/jpk/llava/LLaVA_RoDE/llava/model/multimodal_projector/deformable_attention/ops/build/temp.linux-x86_64-cpython-310/home/ubuntu/jpk/llava/LLaVA_RoDE/llava/model/multimodal_projector/deformable_attention/ops/src/cuda/ms_deform_attn_cuda.o	29fba432877ed48a
